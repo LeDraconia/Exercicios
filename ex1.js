@@ -32,10 +32,12 @@ let resultado = (carga*salario)
 alert("seu codigo de funcionario é"+ matricula +"seu salário é de:" +resultado)
 */
 
+/*
 let distancia = prompt("Digite a distancia total percorrida")
 let consumo = prompt("Digite o quanto o automovel consumiu")
 let resultado = (distancia/consumo)
 alert("O consumo médio é de" +resultado.toFixed(3) +"km/l")
+*/
 
 
 
